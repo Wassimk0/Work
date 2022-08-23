@@ -1,0 +1,3 @@
+This Project consist of scraping a website that has 7745 application
+getting all the tne important information that the client asked for
+such as App name, Last updated, total downloads...
